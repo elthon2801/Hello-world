@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+hello haha,
+
+diko talaga alam haha
